@@ -1,0 +1,49 @@
+name: Bug report
+description: Something in GeoParcela is broken or misbehaving
+labels: ["bug"]
+title: "Bug report – "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting! Please fill in what you can — the
+        diagnostics block below is the most useful part.
+
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What did you do, what did you expect, what did you see instead?
+      placeholder: "On idealista the parcel click showed 'no data' even though…"
+    validations:
+      required: true
+
+  - type: input
+    id: where
+    attributes:
+      label: Where?
+      description: Portal/page where it happened (e.g. idealista map, Google Maps, BOE auction, options page)
+      placeholder: "idealista.com map"
+    validations:
+      required: false
+
+  - type: textarea
+    id: diag
+    attributes:
+      label: Diagnostics
+      description: |
+        Extension options → Developer info → "Run diagnostics" →
+        "Report a bug" copies this automatically. It contains no
+        personal data, no coordinates and no licence key.
+      placeholder: "Paste the copied diagnostics here (Ctrl+V)"
+      render: text
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: consent
+    attributes:
+      label: Check
+      options:
+        - label: I checked that the diagnostics contain nothing I want to keep private
+          required: true
