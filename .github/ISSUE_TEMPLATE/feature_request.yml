@@ -1,0 +1,22 @@
+name: Feature request
+description: Suggest an idea or improvement for GeoParcela
+labels: ["enhancement"]
+title: "Feature request – "
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: What should GeoParcela do?
+      description: Describe the feature or improvement
+      placeholder: "Show whether a parcel already has a building permit when…"
+    validations:
+      required: true
+
+  - type: textarea
+    id: why
+    attributes:
+      label: Why would it help you?
+      description: Your use case — helps prioritise
+      placeholder: "I compare rural plots for a self-build project and…"
+    validations:
+      required: false
