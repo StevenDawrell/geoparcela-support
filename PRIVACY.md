@@ -1,8 +1,8 @@
-# Privacy Policy – GeoParcela
+# Privacy Policy – Katastero
 
 **Last updated: 2026-11-01**
 
-GeoParcela is a browser extension that displays official Spanish
+Katastero is a browser extension that displays official Spanish
 geographic data on real-estate portal maps and analyses parcels against
 public government geoservices.
 
