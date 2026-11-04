@@ -1,6 +1,6 @@
-# GeoParcela – Support
+# Katastero – Support
 
-Public support & privacy repository for the **GeoParcela** Chrome
+Public support & privacy repository for the **Katastero** Chrome
 extension – a buildability check for Spanish land that overlays
 official government geodata (Catastro, SIU planning classes, flood
 zones, protected areas, PVGIS) on idealista, Fotocasa and Google
