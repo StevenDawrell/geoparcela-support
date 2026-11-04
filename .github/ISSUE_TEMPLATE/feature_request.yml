@@ -1,12 +1,12 @@
 name: Feature request
-description: Suggest an idea or improvement for GeoParcela
+description: Suggest an idea or improvement for Katastero
 labels: ["enhancement"]
 title: "Feature request – "
 body:
   - type: textarea
     id: idea
     attributes:
-      label: What should GeoParcela do?
+      label: What should Katastero do?
       description: Describe the feature or improvement
       placeholder: "Show whether a parcel already has a building permit when…"
     validations:
