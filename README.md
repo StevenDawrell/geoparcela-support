@@ -2,8 +2,9 @@
 
 Public support & privacy repository for the **Katastero** Chrome
 extension – a buildability check for Spanish land that overlays
-official government geodata (Catastro, SIU planning classes, flood
-zones, protected areas, PVGIS) on idealista, Fotocasa and Google
+official government geodata (Catastro and foral cadastres, SIU
+planning classes, flood zones, protected areas, seismic and
+volcanic hazard maps, PVGIS) on idealista, Fotocasa and Google
 Maps and turns it into a plain-language verdict per parcel.
 
 > The extension's source code is **not** public. This repository only
