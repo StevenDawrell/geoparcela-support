@@ -1,6 +1,6 @@
 # Privacy Policy – Katastero
 
-**Last updated: 2026-11-01**
+**Last updated: 2026-11-05**
 
 Katastero is a browser extension that displays official Spanish
 geographic data on real-estate portal maps and analyses parcels against
@@ -24,9 +24,12 @@ their own privacy policy applies there.
 
 - **Map coordinates:** When you click a map point or open a listing page,
   the clicked/listing coordinates are sent – directly from your browser –
-  to the official public geoservices of the Spanish administrations
-  (Ministerio para la Transición Ecológica, Dirección General del Catastro,
-  Ministerio de Vivienda) to retrieve public map data. These services
+  to the official public geoservices of the Spanish national
+  administrations (Dirección General del Catastro, Ministerio de
+  Vivienda, MITECO/IEPNB, IGN, IGME, INE, SIGPAC), the regional and
+  foral authorities (Gobierno de Canarias GRAFCAN, Diputaciones of
+  Navarra/Álava/Bizkaia/Gipuzkoa, Generalitat Valenciana) and the EU
+  JRC PVGIS service to retrieve public map data. These services
   answer public WMS/WFS/ArcGIS requests; they receive only the queried
   coordinates, like any normal map pan in a GIS viewer.
 - **Listings:** On supported portals, listing coordinates already present
