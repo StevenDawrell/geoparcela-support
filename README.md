@@ -12,7 +12,7 @@ Maps and turns it into a plain-language verdict per parcel.
 
 ## Report a bug
 
-[Open a bug report](../../issues/new?template=bug_report.yml)
+[Open a bug report](https://github.com/StevenDawrell/katastero-support/issues/new?template=bug_report.yml)
 
 In the extension: right-click the toolbar icon → *Extension options* →
 *Developer info* → **Run diagnostics**, then **Report a bug**.
@@ -21,7 +21,7 @@ licence key, no personal data) — paste it into the issue form.
 
 ## Request a feature
 
-[Open a feature request](../../issues/new?template=feature_request.yml)
+[Open a feature request](https://github.com/StevenDawrell/katastero-support/issues/new?template=feature_request.yml)
 
 ## Privacy
 
